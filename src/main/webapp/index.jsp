@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello maven!</h2>
+<h2>你好！</h2>
 </body>
 </html>
