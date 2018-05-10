@@ -1,7 +1,7 @@
 
 <html>
-<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <body>
-<h2>你好！</h2>
+<h2>你好</h2>
 </body>
 </html>
